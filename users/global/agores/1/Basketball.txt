@@ -1,0 +1,75 @@
+1st Half Winner
+1st Half Winner 2way
+1st Half Winner with Handicap
+1st Half Over/Under points
+1st Half Over/Under points Away Team
+1st Half Over/Under points Home Team
+1st Period Winner
+1st Period Winner 2way
+1st Period with Handicap
+1st Period Over/Under points
+1st Period Over/Under points Away Team
+1st Period Over/Under points Home Team
+2nd Period Winner
+2nd Period Winner 2way
+2nd Period with Handicap
+2nd Period Over/Under points
+2nd Period Over/Under points Away Team
+2nd Period Over/Under points Home Team
+3d Period Winner
+3d Period Winner 2way
+3d Period with Handicap
+3d Period Over/Under points
+3d Period Over/Under points Away Team
+3d Period Over/Under points Home Team
+First Team to score
+Halftime/Fulltime
+Half With Most Points
+Highest scoring period
+Match Winner
+Match Winner Including Overtime
+Match Winner with Handicap
+Odd/ Even Total Points
+Odd/ Even Total Points 1st Half
+Odd/ Even Total Points 1st Period
+Odd/ Even Total Points 2nd Half
+Odd/ Even Total Points 2nd Period
+Odd/ Even Total Points 3rd Period
+Odd/ Even Total Points 4th period
+Odd/ Even Total Points Away
+Odd/ Even Total Points Away 1st Half
+Odd/ Even Total Points Away 1st Period
+Odd/ Even Total Points away 2nd Period
+Odd/ Even Total Points away 3rd Period
+Odd/ Even Total Points away 4th Period
+Odd/ Even Total Points Home
+Odd/ Even Total Points Home 1st Half
+Odd/ Even Total Points Home 1st Period
+Odd/ Even Total Points Home 2nd Period
+Odd/ Even Total Points Home 3rd Period
+Odd/ Even Total Points Home 4th Period
+Over/Under Total Points
+Over/Under Total Points 1st Half 
+Over/Under Total Points 1st Period
+Over/Under Total Points Away Team
+Over/Under Total Points Home Team
+Player Double-Double Yes/No
+Player Triple-Double Yes/No
+Player Over/Under 3s made
+Player Over/Under Assists
+Player Over/Under Blocks
+Player Over/Under Errors
+Player Over/Under FTs made
+Player Over/Under Points
+Player Over/Under Pts/Rb/As
+Player Over/Under Rebounds
+Player Over/Under Steals
+Race to 10
+Race to 20
+Race to 30
+Race to 40
+Race to 50
+Special Bet
+Special Bet Player
+Will There be an Overtime?
+Win Margin

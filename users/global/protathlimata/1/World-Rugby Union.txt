@@ -1,0 +1,45 @@
+World Cup
+Super Rugby
+Nations Cup
+Tri Nations
+Guinness Pro14
+IRB Tbilisi Cup
+Americas Championship
+Americas Pacific Challenge
+Pacific Challenge
+Pacific Nations Cup
+Rugby Championship
+World Championship U20
+Sevens World Cup
+Olympic Games 7's
+World Cup 7's
+Universiade 7's
+Commonwealth Games 7's
+Pan American Games 7's
+SWS - Australia
+SWS - Canada
+SWS - Dubai
+SWS - England
+SWS - France
+SWS - Hong Kong
+SWS - Japan
+SWS - New Zealand
+SWS - Scotland
+SWS - Singapore
+SWS - South Africa
+SWS - USA
+World Cup Women
+Olympic Games 7's Women
+World Cup 7's Women
+Super Series Women
+Commonwealth Games 7's Women
+Universiade 7's Women
+Pan American Games 7's Women
+SWSW - Australia
+SWSW - Canada
+SWSW - Dubai
+SWSW - France
+SWSW - Japan
+SWSW - New Zealand
+SWSW - South Africa
+SWSW - USA

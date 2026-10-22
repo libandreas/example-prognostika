@@ -1,0 +1,7 @@
+NHL
+AHL
+ECHL
+FHL
+SPHL
+USHL
+NWHL Women

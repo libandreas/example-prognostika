@@ -1,0 +1,21 @@
+1st set Correct Score
+1st Set Winner
+2nd Set Winner
+Correct Score
+Games Winner with Handicap
+Match Winner
+Odd/ Even Total Games 2nd Set
+Odd/ Even Total Sets
+Over/Under Total Games
+Over/Under Total Games 1st Set
+Over/Under Total Games Away
+Over/Under Total Games Home
+Over/Under Total Tie Breaks
+Player 1 to Win a Set
+Player 2 to Win a Set
+Set Betting (best of 3)
+Set Betting (best of 5)
+Special Bet
+Total number of sets (best of 3)
+Total number of sets (best of 5)
+Will there be a Tie Break?

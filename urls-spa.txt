@@ -1,0 +1,2 @@
+http://localhost:8000/table/statistics.php
+http://localhost:8000/table/todaytips.php

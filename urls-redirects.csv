@@ -1,0 +1,28 @@
+# gui
+http://localhost:8000/users/*/gui-todaytips.php, http://localhost:8000/table/todaytips.php?u=*
+http://localhost:8000/users/*/gui-statistics.php, http://localhost:8000/table/statistics.php?u=*
+http://localhost:8000/users/*/gui-widget-1.php, http://localhost:8000/table/widget-1.php?u=*
+http://localhost:8000/users/system/gui-todaytips.php, http://localhost:8000/table/todaytips.php?u=global
+http://localhost:8000/users/system/gui-statistics.php, http://localhost:8000/table/statistics.php?u=global
+http://localhost:8000/users/system/gui-widget-1.php, http://localhost:8000/table/widget-1.php?u=global
+http://localhost:8000/users/global/gui-todaytips.php?=u*, http://localhost:8000/table/todaytips.php?u=*
+http://localhost:8000/users/global/gui-statistics.php?u=*, http://localhost:8000/table/statistics.php?u=*
+http://localhost:8000/users/global/gui-widget-1.php?u=*, http://localhost:8000/table/widget-1.php?u=*
+
+# frontpage
+http://localhost:8000/users/frontpage/gui-todaytips.php, http://localhost:8000/tables/todaytips-all.php
+
+# api
+http://localhost:8000/users/system/api.php, http://localhost:8000/table/api.php
+http://localhost:8000/users/global/api.php, http://localhost:8000/table/api.php
+
+# forms
+http://localhost:8000/users/*/forms-todaytips.php, http://localhost:8000/pliromes/todaytips.php?u=*
+http://localhost:8000/users/*/forms-apot-tips.php, http://localhost:8000/pliromes/apotelesmata.php?u=*
+http://localhost:8000/users/*/forms-todaytips-edit.php, http://localhost:8000/pliromes/todaytips-apot.php?u=*
+http://localhost:8000/users/system/forms-todaytips.php, http://localhost:8000/pliromes/todaytips.php?u=global
+http://localhost:8000/users/system/forms-apot-tips.php, http://localhost:8000/pliromes/apotelesmata.php?u=global
+http://localhost:8000/users/system/forms-todaytips-edit.php, http://localhost:8000/pliromes/todaytips-apot.php?u=global
+http://localhost:8000/users/global/forms-todaytips.php?u=*, http://localhost:8000/pliromes/todaytips.php?u=*
+http://localhost:8000/users/global/forms-apot-tips.php?u=*, http://localhost:8000/pliromes/apotelesmata.php?u=*
+http://localhost:8000/users/global/forms-todaytips-edit.php?u=*, http://localhost:8000/pliromes/todaytips-apot.php?u=*

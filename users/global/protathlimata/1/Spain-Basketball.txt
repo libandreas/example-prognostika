@@ -1,0 +1,8 @@
+ACB
+LEB Oro
+LEB Plata
+Spanish Cup
+Supercopa ACB
+Liga Femenina Women
+Spanish Cup Women
+Supercopa Women

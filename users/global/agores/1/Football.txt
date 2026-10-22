@@ -1,0 +1,158 @@
+1st Team to 2 Goals
+1st Team to 3 Goals
+1st Team to X Corners
+1st Team to X Yellow cards
+1st Goal Scorer
+Anytime Correct Score
+Anytime Goal Scorer
+Anytime Goal Scorer 1st Half
+Anytime Goal Scorer 2nd Half
+Asian Handicap Cards
+Asian Handicap Corners
+Asian Handicap 1st Half Corners
+Asian Handicap Fouls
+Asian Handicap Goals
+Asian Handicap 1st Half Goals
+Asian Handicap Match Winner
+Asian Over/Under
+Asian Over/Under 1st Half
+Away No Bet
+Away No Bet 1st Half
+Both Teams to Score
+Both Teams to Score 1st Half
+Both Teams to Score 2nd Half
+Both Teams to Score 1st/2nd Half
+Combo bet
+Correct score
+Correct score 1st Half 
+Correct score 2nd Half 
+Double Chance
+Double Chance 1st Half
+Double Chance 2nd Half
+Double Chance Halftime/Fulltime
+Draw No Bet
+Draw No Bet 1st Half
+European Handicap
+Goal in Both Halves
+H2H
+Half with most goals
+Half with most goals Away team
+Half with most goals Home team
+Halftime/ Fulltime
+Halftime/ Fulltime Corners
+Home No Bet
+Home No Bet 1st Half
+Last Goal scorer
+Match Winner
+Match Winner 1st Half
+Match Winner 2nd Half
+Match Winner 1st or 2nd Half
+Multi Correct Scores
+Multi Goals
+Multi Goals 1st Half
+Multi Goals 2nd Half
+Next Team to score
+Odd/ Even
+Odd/ Even 1st Half
+Odd/ Even 2nd Half
+Odd/ Even Corners
+Odd/ Even Corners 1st Half
+Odd/ Even Corners 2nd Half
+Odd/ Even Yellow Cards
+Over/Under Ball Possesion
+Over/Under Cards
+Over/Under Cards 1st Half
+Over/Under Cards 2nd Half
+Over/Under Cards Away
+Over/Under Cards Away 1st Half
+Over/Under Cards Home
+Over/Under Cards Home 1st Half
+Over/Under Corners
+Over/Under Corners 1st Half
+Over/Under Corners 2nd Half
+Over/Under Corners Away
+Over/Under Corners Away 1st Half
+Over/Under Corners Home
+Over/Under Corners Home 1st Half
+Over/Under Fouls
+Over/Under Fouls Away Team
+Over/Under Fouls Home Team
+Over/Under Free Kicks
+Over/Under Free Kicks Away Team
+Over/Under Free Kicks Home Team
+Over/Under Goalkeeper Free-Kicks
+Over/Under Offsides
+Over/Under Offsides Away Team
+Over/Under Offsides Home Team
+Over/Under Penalty
+Over/Under Player Fouls
+Over/Under  Player SOT
+Over/Under Player Shots
+Over/Under Player Tackles
+Over/Under Shots
+Over/Under Shots Away Team
+Over/Under Shots Home Team
+Over/Under Shots on Target
+Over/Under Shots on Target Away Team
+Over/Under Shots on Target Home Team
+Over/Under Subs
+Over/Under Subs 1st Half
+Over/Under Throw-Ins
+Over/Under Total Goals
+Over/Under Total Goals 1st Half
+Over/Under Total Goals 1st Half Away Team
+Over/Under Total Goals 1st Half Home Team
+Over/Under Total Goals 2nd Half
+Over/Under Total Goals Away Team
+Over/Under Total Goals Home Team
+Over/Under Red Cards
+Over/Under Red Cards Away Team
+Over/Under Red Cards Home Team
+Over/Under VAR
+Over/Under Woodwork
+Over/Under Yellow cards
+Over/Under Yellow cards 1st Half
+Over/Under Yellow cards Away
+Over/Under Yellow cards Away 1st Half
+Over/Under Yellow cards Home
+Over/Under Yellow cards Home 1st Half
+Own Goal Yes/ No
+Penalty Yes/ No
+Penalty Both Teams Yes/No
+Penalty Yes/No 1st Half
+Player cards
+Player to Score 2+ goals
+Player to Score Hat-Trick
+Red Card Yes/ No
+Red Card Yes/ No 1st Half
+Red Card and Penalty Yes/No
+Scorecast
+Scoring draw
+Special Bet
+Special Bet Player
+Team to Qualify
+Team to lose a Penalty
+Team to score a Penalty
+Team to Score In Both Halves
+Team to Score the Last Goal
+Team to Score the First Goal
+Team to Score the First Goal 1st Half
+Team to Score the First Goal 2nd Half
+Team to Win Both Halves
+Team to Win to 0
+Team will win without 0
+Team with 1st Card
+Team with Last Card
+Team with Most Cards
+Team with Most Corners
+Team with Most Corners 1st Half
+Team with Most Fouls
+Time of 1st Card
+Time of 1st Corner
+Time of 1st Goal
+Time of 1st Goal Away Team
+Time of 1st Goal Home Team
+Time of last Goal
+Way of 1st Goal
+Which team will keep clean seat
+Which team will kick off the match

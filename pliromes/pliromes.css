@@ -1,0 +1,23 @@
+body {
+	font-family: Sans-Serif;
+}
+
+.platform-logo {
+	display: block;
+	width: 300px;
+	max-width: 100%;
+	height: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+td * span {
+	display: block;
+	min-width: 85px;
+}
+
+#content {
+	/* width: 100%; */
+}

@@ -1,0 +1,33 @@
+Serie A
+Serie B
+Serie C
+Serie D
+Primeira Liga
+Campeonato Alagoano
+Campeonato Baiano
+Campeonato Brasiliense
+Campeonato Capixaba
+Campeonato Carioca
+Campeonato Catarinense
+Campeonato Cearense
+Campeonato Gaucho
+Campeonato Goiano
+Campeonato Maranhense
+Campeonato Matogrossense
+Campeonato Mineiro
+Campeonato Paraense
+Campeonato Paraibano
+Campeonato Paranaense
+Campeonato Paulista
+Campeonato Pernambucano
+Campeonato Piauiense
+Campeonato Potiguar
+Campeonato Sergipano
+Campeonato Sul-Matogrossense
+Copa do Brasil
+Copa do Brasil U20
+Copa Verde
+Copa do Nordeste
+Brasileiro U20
+Copa Sao Paulo de juniores
+Brasileiro Women

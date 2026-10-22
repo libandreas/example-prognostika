@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="robots" content="noindex,nofollow">
+	<title>Galaxy Content Manager - Files</title>
+	<meta name="description" content="Browse and manage files in Galaxy Content Manager.">
+	<link rel="stylesheet" href="content-2.css">
+	<link rel="stylesheet" href="simple-file-manager.css">
+	<link rel="stylesheet" href="responsive.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127756;</text></svg>">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src='simple-file-manager.js'></script>
+	<link rel="icon" href="icon.png" type="image/png">
+</head>
+
+<body class="admin-view file-manager-view" style="background: white">
+
+	<?php if (is_user_admin_back_end()) { ?>
+
+	<div id="top">
+		<?php if ($allow_create_folder_filemanager): ?>
+		<form action="?" method="post" id="mkdir">
+			<label for=dirname>Create New Folder</label><input id=dirname type=text name=name value="" />
+			<input type="submit" value="create" />
+		</form>
+
+		<?php endif; ?>
+
+		<?php if ($allow_upload_filemanager): ?>
+
+		<div id="file_drop_target">
+			Drag Files Here To Upload
+			<b>or</b>
+			<input type="file" multiple />
+		</div>
+		<?php endif; ?>
+		<div id="breadcrumb">&nbsp;</div>
+	</div>
+
+	<div id="upload_progress"></div>
+
+	<div style="width:100%;overflow-x:auto">
+
+		<table id="table">
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Size</th>
+					<th>Modified</th>
+					<th>Permissions</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			<tbody id="list">
+
+			</tbody>
+		</table>
+	</div>
+
+	<?php } else { ?>
+	<?php } ?>
+
+	<footer>simple php filemanager by <a href="https://github.com/jcampbell1">jcampbell1</a></footer>
+</body>
+
+</html>
