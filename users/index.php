@@ -28,7 +28,6 @@ include_once $_SERVER["DOCUMENT_ROOT"] . "/common/auto-version.php";
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<script src="/common/functions.js"></script>
 	<script src="/common/iframes.js"></script>
 	<script src="/js/jquery.min.js"></script>
 	<script src="/js/w3.js"></script>
